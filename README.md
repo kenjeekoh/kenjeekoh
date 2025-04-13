@@ -52,7 +52,7 @@ Visual and statistical deep dive into Spotify data to explore emotional shifts i
 I'm always open to collaborating on meaningful analytics or product projects — or just talking sneakers, music, or good UX.  
 Feel free to reach out or explore more about me below:
 
-📫 **Email**: ckkoh@uci.edu  
+📫 **Email**: ckkoh@uci.edu / kenjeekoh@gmail.com  
 📎 **Portfolio & Resume**: [kenjeekoh.notion.site](https://kenjeekoh.notion.site/Christiaan-Kenjee-Koh-Career-Profile-488e767acc1a4a0ebb7ba71388774b17)
 
 ---
