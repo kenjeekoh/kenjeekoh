@@ -56,5 +56,3 @@ Feel free to reach out or explore more about me below:
 📎 **Portfolio & Resume**: [kenjeekoh.notion.site](https://kenjeekoh.notion.site/Christiaan-Kenjee-Koh-Career-Profile-488e767acc1a4a0ebb7ba71388774b17)
 
 ---
-
-_“Data tells a story. I make sure it’s one worth listening to.”_
