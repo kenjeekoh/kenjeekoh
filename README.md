@@ -25,7 +25,7 @@ I’m a data-savvy product thinker passionate about using technology and storyte
 `Python` `SQL` `Java` `JavaScript` `R` `HTML/CSS` `Swift`
 
 **Tools & Platforms**  
-`PowerBI` `Tableau` `Excel` `Splunk` `Jira` `Figma` `Notion` `SPSS` `TestFlight`
+`PowerBI` `Tableau` `MS Excel` `AWS` `MS Azure` `GCP` `Splunk` `Jira` `Figma` `Notion` `SPSS` `TestFlight`
 
 **Machine Learning & Analytics**  
 `Random Forest` `Logistic Regression` `K-Means` `XGBoost` `Neural Networks` `TF-IDF` `NLTK` `Pandas` `Scikit-learn` `Time Series Analysis`
