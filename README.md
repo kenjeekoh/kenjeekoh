@@ -11,7 +11,8 @@
 
 I’m a data-savvy product thinker passionate about using technology and storytelling to bridge the gap between complex analytics and strategic business decisions.
 
-- 🔎 **Data Analyst** at Edwards Lifesciences & Metal Surfaces Intl. — building anomaly detection models, pricing systems, and contract profitability benchmarks
+- 🔎 **Associate Data Analyst** @ Canon U.S.A — building ETL pipelines, PowerBI dashboards, and handling Splunk Search and Reporting initiatives
+- - 🔎 **Previously Data** @ Edwards Lifesciences & Metal Surfaces Intl. — building anomaly detection models, pricing systems, and contract profitability benchmarks
 - 🧠 **Machine Learning Practitioner** — specializing in K-Means, XGBoost, Random Forests, and Neural Networks
 - 📱 **Product Leader** — led UX + Engineering efforts at Develop for Good and contributed to feature roadmaps at Warner Bros Discovery and Club Feast
 - 💡 **Builder** — constantly ideating, designing, and shipping data-driven projects that live in real tools, dashboards, and apps
@@ -32,6 +33,9 @@ I’m a data-savvy product thinker passionate about using technology and storyte
 ---
 
 ### 📌 Featured Projects
+
+#### 📋 ETL Pipelines @ Canon U.S.A
+Building and automating end-to-end ETL pipelines, integrating AWS, Azure, Python, Scala, and Splunk into Power BI to support enterprise analytics and reporting.
 
 #### 🧬 Error Detection System @ Edwards Lifesciences
 Built scalable anomaly detection models (XGBoost + Clustering) across 7 complex datasets to support quality assurance in the ePAC medical compliance platform.
